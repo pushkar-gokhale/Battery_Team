@@ -1,3 +1,3 @@
 # Anode Code
 
-Try understanding it. Which is very difficult. But this is just me playing with git hub. 
+Computation Model of the Anode of a Zn-MnO2 battery 
